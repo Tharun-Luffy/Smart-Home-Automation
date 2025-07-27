@@ -4,6 +4,12 @@
 
 This project demonstrates a smart home automation system that utilizes hand gestures captured by the MPU 6050 sensor to control various home appliances.
 
+## Team Members
+
+Tharun TV
+Nithish S
+Sudarshan
+
 ## Table of Contents
 
 - [Features](#features)
