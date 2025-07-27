@@ -6,9 +6,9 @@ This project demonstrates a smart home automation system that utilizes hand gest
 
 ## Team Members
 
-Tharun TV
-Nithish S
-Sudarshan
+- Tharun TV
+- Nithish S
+- Sudarshan
 
 ## Table of Contents
 
